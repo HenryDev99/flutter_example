@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "261481012404",
+    "project_id": "goodiez-655a0",
+    "storage_bucket": "goodiez-655a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261481012404:android:9c0ff187d62d4e35964be1",
+        "android_client_info": {
+          "package_name": "io.goodiez.abalone.goodiez_abalone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261481012404-0fvfpvtn8vrrqsvosk2fu1q7jn846sfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.goodiez.abalone.goodiez_abalone",
+            "certificate_hash": "3a5cb92fd2b91804aa97b91b2c51ac7200dd8fce"
+          }
+        },
+        {
+          "client_id": "261481012404-uie44l6utn7nf9d2gv7ed24dur01ahuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxIU3TkZ8gEForzHQ1K9sV3IwpDnirT2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261481012404-uie44l6utn7nf9d2gv7ed24dur01ahuj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "261481012404-9rqsdr547o0puqh7uf2g1457nqjk5bot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.goodiez.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
